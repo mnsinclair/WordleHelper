@@ -1,7 +1,6 @@
 from enum import Enum, auto
 
 import numpy as np
-import pandas as pd
 
 class color(Enum):
     red = auto()
